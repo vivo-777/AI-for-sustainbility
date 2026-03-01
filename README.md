@@ -10,7 +10,7 @@ A simple Deep Learning project that classifies Earth Observation satellite image
 
 ## Tech Stack
 * **Deep Learning:** PyTorch, Torchvision (ResNet18)
-* **Data Processing:** Rasterio, PIL, Pandas, NumPy
+* **Data Processing:** Rasterio,Pandas, NumPy
 * **Evaluation & Splitting:** Scikit-Learn
 * **Visualization:** Matplotlib, Seaborn
 
