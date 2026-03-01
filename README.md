@@ -20,4 +20,5 @@ A simple Deep Learning project that classifies Earth Observation satellite image
 3. **Training:** Loads the images into a custom PyTorch `Dataset` and trains a modified ResNet18 CNN.
 4. **Evaluation:** Tests the model on unseen data and outputs the final Accuracy, F1-Score, and a Confusion Matrix heatmap.
 
-
+##Dataset 
+Download the dataset here: `https://www.kaggle.com/datasets/rishabhsnip/earth-observation-delhi-airshed/code`
